@@ -1,4 +1,15 @@
+@font-face {
+    font-family: 'un';
+    src: url('../assets/fonts/PressStart2P.ttf');
+}
+
 body {
     background-color: black;
     color: white;
+    font-family: 'un';
+}
+
+.mainTitle {
+    display: flex;
+    justify-content: center;
 }
