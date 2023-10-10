@@ -1,0 +1,11 @@
+.navigation {
+    ul {
+        display: flex;
+        justify-content: center;
+
+        a {
+            display: flex;
+            padding: 10px;
+        }
+    }
+}
